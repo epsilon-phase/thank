@@ -1,0 +1,10 @@
+[package]
+name = "thank"
+version = "0.1.0"
+authors = ["Violet White"]
+edition = "2018"
+repository = "https://github.com/epsilon-phase/thank"
+license = "gplv3"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
